@@ -84,19 +84,20 @@
     height: 400px;
     width: 50%;
     float: right;
+    margin-top: 20px;
   }
 
   .pitsus{
-    height: 450px;
+    height: 500px;
     width: 100%;
-    background-color: rgb(160, 155, 155);
-    color: black;
+    background-color: rgb(32, 34, 31);
+    color: rgb(245, 242, 242);
   }
   .pitsus-1{
   
     height: 300px;
     width: 50%;
-    color: black;
+    color: rgb(248, 244, 244);
     display: flex;
     justify-content: center;
     text-align: left;
@@ -136,7 +137,7 @@
 
 
   .Portfolio{
-    height: 750px;
+    height: 800px;
     width: 100%;
     background-color: #737373;
     text-align: center;
@@ -183,7 +184,7 @@ justify-content: space-around;
 }
 .sub-menu:hover{
   background-color: #737373;
-  opacity: 0.80;
+  opacity: 0.9;
 
 }
 
