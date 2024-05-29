@@ -365,9 +365,10 @@ justify-content: space-around;
    .pits-1{
     height: 200px;
     width: 100%;
-    padding-top: 150px;
+    padding-top: 220px;
     color: white;
     font-size: 18px;
+    text-align: center;
     
    } 
 
@@ -392,15 +393,16 @@ justify-content: space-around;
    .pitsus-1{
     height: 200px;
     width: 100%;
-    color: rgb(13, 12, 12);
+    color: rgb(245, 243, 243);
     font-size: 18px;
+    text-align: center;
     
    } 
 
    .pitsus-2{
     height: 300px;
     width: 100%;
-    color: rgb(13, 12, 12);
+    color: rgb(247, 241, 241);
 
    } 
 
@@ -446,7 +448,7 @@ justify-content: space-around;
 
 .bar{
   height: 100px;
-  width:100% ;
+  width:120% ;
   font-size: 20px;
   text-align: center;
  
