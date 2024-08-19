@@ -13,7 +13,7 @@
   
   .liss a {
     display: block;
-    color: rgb(6, 248, 6);
+    color: rgb(19, 233, 248);
     padding: 5px 20px;
     text-decoration: none;
     
@@ -39,7 +39,7 @@
 
   .icon{
     
-    color:rgb(6, 248, 6) ;
+    color:rgb(19, 233, 248);
   }
   #name{
     height: 350px;
@@ -191,7 +191,7 @@ justify-content: space-around;
 
 .lin{
 
-  color: rgb(83, 247, 7);
+  color: rgb(19, 233, 248);
    text-decoration: none;
 }
 
@@ -290,14 +290,14 @@ justify-content: space-around;
   .app-form-button {
     background: none;
     border: none;
-    color: rgb(83, 247, 7);
+    color: rgb(19, 233, 248);
     font-size: 14px;
     cursor: pointer;
     outline: none;
   }
   
   .app-form-button:hover {
-    color:rgb(83, 247, 7);
+    color:rgb(19, 233, 248);
   }
   
   .credits {
