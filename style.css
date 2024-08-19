@@ -348,6 +348,13 @@ justify-content: space-around;
     .app-title:after {
       display: none;
     }
+    .bar{
+      height: 100px;
+      width:80% ;
+      font-size: 20px;
+      text-align: center;
+     
+    }
   }
   
 
